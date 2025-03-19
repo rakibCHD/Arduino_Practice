@@ -31,32 +31,32 @@
 # -->ATmega328P Port Information
 
 PORTB (Digital Pins 8 - 13):
-    PB0 → Digital Pin 8
-    PB1 → Digital Pin 9 (PWM)
-    PB2 → Digital Pin 10 (PWM, SS for SPI)
-    PB3 → Digital Pin 11 (PWM, MOSI for SPI)
-    PB4 → Digital Pin 12 (MISO for SPI)
-    PB5 → Digital Pin 13 (SCK for SPI, LED_BUILTIN)
-    PB6 → Crystal Oscillator (XTAL1)
+    PB0 → Digital Pin 8,
+    PB1 → Digital Pin 9 (PWM),
+    PB2 → Digital Pin 10 (PWM, SS for SPI),
+    PB3 → Digital Pin 11 (PWM, MOSI for SPI),
+    PB4 → Digital Pin 12 (MISO for SPI),
+    PB5 → Digital Pin 13 (SCK for SPI, LED_BUILTIN),
+    PB6 → Crystal Oscillator (XTAL1),
     PB7 → Crystal Oscillator (XTAL2)
 
 PORTC (Analog Pins A0 - A5):
-    PC0 → Analog Pin A0
-    PC1 → Analog Pin A1
-    PC2 → Analog Pin A2
-    PC3 → Analog Pin A3
-    PC4 → Analog Pin A4 (SDA for I2C)
-    PC5 → Analog Pin A5 (SCL for I2C)
+    PC0 → Analog Pin A0,
+    PC1 → Analog Pin A1,
+    PC2 → Analog Pin A2,
+    PC3 → Analog Pin A3,
+    PC4 → Analog Pin A4 (SDA for I2C),
+    PC5 → Analog Pin A5 (SCL for I2C),
     PC6 → RESET (Active LOW)
 
 PORTD (Digital Pins 0 - 7):
-    PD0 → Digital Pin 0 (RX for Serial Communication)
-    PD1 → Digital Pin 1 (TX for Serial Communication)
-    PD2 → Digital Pin 2 (INT0 - External Interrupt 0)
-    PD3 → Digital Pin 3 (PWM, INT1 - External Interrupt 1)
-    PD4 → Digital Pin 4
-    PD5 → Digital Pin 5 (PWM)
-    PD6 → Digital Pin 6 (PWM)
+    PD0 → Digital Pin 0 (RX for Serial Communication),
+    PD1 → Digital Pin 1 (TX for Serial Communication),
+    PD2 → Digital Pin 2 (INT0 - External Interrupt 0),
+    PD3 → Digital Pin 3 (PWM, INT1 - External Interrupt 1),
+    PD4 → Digital Pin 4,
+    PD5 → Digital Pin 5 (PWM),
+    PD6 → Digital Pin 6 (PWM),
     PD7 → Digital Pin 7
     
 # -->Timers & Watchdog:
