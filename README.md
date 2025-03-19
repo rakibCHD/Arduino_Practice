@@ -79,7 +79,7 @@
     QFN (32-pin)
 
 
-# Arduino Uno Specifications:
+# Arduino Uno Dev Board Specifications:
 
 # -->Microcontroller:
     ATmega328P
