@@ -19,8 +19,8 @@
     Clock Speed: 16 MHz
 
 -->I/O Pins:
-    Digital I/O Pins: 14(0-13) (6 support PWM output)
-    PWM Digital I/O Pins: 6 (Pins: 3, 5, 6, 9, 10, 11)
+    Digital I/O Pins: 14(0-13) (6 support PWM output),
+    PWM Digital I/O Pins: 6 (Pins: 3, 5, 6, 9, 10, 11),
     Digital I/O Pin-0 use as RX,
     Digital I/O Pin-1 use as TX,
     Analog Input Pins: 6,
