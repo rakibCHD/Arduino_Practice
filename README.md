@@ -23,7 +23,7 @@
     PWM Digital I/O Pins: 6 (Pins: 3, 5, 6, 9, 10, 11),
     Digital I/O Pin-0 use as RX,
     Digital I/O Pin-1 use as TX,
-    Analog Input Pins: 6,
+    Analog Input Pins: 6(A0-A5),
     LED_BUILTIN: Pin 13
 
 -->Communication Interfaces:
