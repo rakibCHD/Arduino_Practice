@@ -24,6 +24,8 @@
     Digital I/O Pin-0 use as RX,
     Digital I/O Pin-1 use as TX,
     Analog Input Pins: 6(A0-A5),
+    Analog Pin-A4 use as SDA(Serial Data),
+    Analog Pin-A5 use as SCL(Serial Clock),
     LED_BUILTIN: Pin 13
 
 -->Communication Interfaces:
