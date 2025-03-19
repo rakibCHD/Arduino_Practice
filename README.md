@@ -120,9 +120,6 @@
     USB Connector: Type-B
     Power Connector: Barrel Jack (2.1mm center-positive)
 
-# -->Special Features:
-    Sleep Modes: Multiple (Idle, ADC Noise Reduction, Power-down, Standby, etc.)
-    In-System Programmable (ISP): Yes
-    Programmable Watchdog Timer: Yes
+
 
 
